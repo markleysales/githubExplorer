@@ -1,6 +1,4 @@
-import React from "react";
-import { app } from "./app"
+import { render } from "react-dom";
+import { App } from "./app"
 
-function Wrapper(){
-    return <h1>Hello World</h1>
-};
+render(<App />, document.getElementById("root"));
