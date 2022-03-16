@@ -28,6 +28,7 @@ section.repository-list{
         justify-content: center;
         align-items: center;
     }
+
     ul{
         list-style: none;
 
@@ -48,6 +49,11 @@ section.repository-list{
                 text-decoration: none;
                 color: #8257e6;
             }
+
+        &:hover{
+            transform: scale(1.02);
+            transition-duration: 0.4s;
+        }
         }
     }
 
