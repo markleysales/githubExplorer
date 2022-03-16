@@ -1,5 +1,5 @@
 section.repository-list{
-    margin: 40px;
+    margin: 0px 40px 16px 40px;
     div{
         width: 100%;
         border-style: solid;
@@ -9,15 +9,31 @@ section.repository-list{
         padding: 10px;
     }
 
+    img{
+        width: 52px;
+        padding-left: 20px;
+    }
+
     h1{
-        margin-bottom: 16px;
+        margin-bottom: 20px;
+        width: 100%;
+        height: 10vh;
+        background-color: #24292F;
+        color: rgb(255,255,255);
+        border-radius: 6px;
+        border-top-left-radius: 0;
+        border-top-right-radius: 0;
+
+        display: flex;
+        justify-content: center;
+        align-items: center;
     }
     ul{
         list-style: none;
 
         li{
             & + li {
-                margin-top: 20px;
+                margin-top: 14px;
             }
 
             p{
@@ -32,6 +48,26 @@ section.repository-list{
                 text-decoration: none;
                 color: #8257e6;
             }
+        }
+    }
+
+    footer{
+        text-align: center;
+        margin-top: 60px;
+        p{
+            margin-top: 8px;
+            font-size: 0.8rem;
+            color: rgb(110,110,110);
+            a{
+                color: #8257e6;
+                text-decoration: none;
+            }
+        }
+
+        img{
+            width: 40px;
+            margin-top: 12px;
+            margin-right: 13px;
         }
     }
 }
