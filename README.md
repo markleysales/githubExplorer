@@ -1,4 +1,4 @@
-<h1><img width="580px" src="https://user-images.githubusercontent.com/95272518/158741331-2e6dbb11-f8ff-4d4c-b164-526f391f9a5a.svg"></h1> 
+<h1><img width="580px" src="https://user-images.githubusercontent.com/95272518/158741790-6921a221-7059-4a4d-a630-e4f79014b16b.svg"></h1> 
 <!-- 500px min 100px títulos e bansc bold + 3px de borda (texto)  -->
 <div>
   <p align="left"><a href="https://github.com/markleysales/markbunnyOnlStore/blob/main/package.json">
