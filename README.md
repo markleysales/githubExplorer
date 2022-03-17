@@ -1,5 +1,5 @@
-<h1><img width="580px" src="https://user-images.githubusercontent.com/95272518/158740217-ee74f2b1-4a2a-4ff3-8e10-f09e40c45637.svg"></h1> 
-<!-- 520px min 100px títulos e 3px de borda -->
+<h1><img width="580px" src="https://user-images.githubusercontent.com/95272518/158741331-2e6dbb11-f8ff-4d4c-b164-526f391f9a5a.svg"></h1> 
+<!-- 500px min 100px títulos e bansc bold + 3px de borda (texto)  -->
 <div>
   <p align="left"><a href="https://github.com/markleysales/markbunnyOnlStore/blob/main/package.json">
     <sup><strong>Complete and responsive GitHub repository list | Version: 1.0.0</a></sup></strong></p>
