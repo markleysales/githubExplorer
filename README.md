@@ -78,7 +78,7 @@ npm start
 
 <h5>Open <a href="http://localhost:3000">localhost:3000</a> or <a href="http://127.0.0.1:3000/products">127.0.0.1:3000</a> with your browser to see the result.</h5>
     <p><sup>*to put the api referring to your profile and view, just add https://api.github.com/users/-yourgithubusernamehere-/repos<br>
-            without "-" in place of the link that is on line 16 of the RepositoryList.tsx folder of the components</sup></p>
+            without "-" in place of the link that is on line 16 of the RepositoryList.tsx folder in the components</sup></p>
   </div>
     
   <br><br><br> 
