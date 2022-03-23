@@ -1,6 +1,7 @@
 <h1><img width="580px" src="https://user-images.githubusercontent.com/95272518/159211994-2679cd09-6cc4-4513-8bce-5d4be2e5d1f1.svg"></h1> 
-<!-- 500px min 100px títulos e bansc bold + 3px de borda (texto)  -->
-<div>
+<!-- --README MADE BY MARKLEY SALES-- 500px min 100px títulos e bansc bold + 3px de borda (texto) --README MADE BY MARKLEY SALES-- -->
+
+<div id="technologies">
   <p align="left"><a href="https://github.com/markleysales/markbunnyOnlStore/blob/main/package.json">
     <sup><strong>Complete and responsive GitHub repository list | Version: 1.0.0</a></sup></strong></p>
   <div align="right">
@@ -10,12 +11,12 @@
     <img width="36px" src="https://user-images.githubusercontent.com/95272518/158736978-a60cc563-dcb6-44cc-9d33-cddaae12b48e.svg">
     <img width="36px" src="https://user-images.githubusercontent.com/95272518/158736985-c9ac6a6e-55b4-4088-a86e-230dae7d595f.svg">
   </div>
-  <div>
+  <div id="repository-album">
     <img width="100%" src="https://user-images.githubusercontent.com/95272518/158737071-ad8b3e9e-6557-45d8-9b7d-36f0754fce79.gif"><br><br>
     <div float="left" align="center"><img width="49.2%" src="https://user-images.githubusercontent.com/95272518/158737097-c54abd4d-b0da-4e74-951e-69514d85b4fc.png">
     <img width="49.2%" src="https://user-images.githubusercontent.com/95272518/158737116-7df26939-9a47-47d5-ae80-fc61da1f98a1.png">
 </div>
-  <div><br>
+  <div id="items-and-questions"><br>
         <h5>WHAT WAS DONE?<br><br>
         Page with list of repositories that consume GitHuB API.<br>
         Implemented with React.js and TypeScript</h5>
@@ -24,10 +25,13 @@
         translated into Portuguese, can be understood as an application programming interface.<br>
         In other words, API is a set of standards that enables communication between platforms<br>
         through a series of standards and protocols.</h5>
+  </div>       
     
+          
   <br><br><br>
     
-  <div>
+          
+  <div id="instructions">
     <h3>Starting application (console/prompt commands)</h3>
     <hr>
 <h5>FOLDER CREATION AND ACESS:</h5> 
@@ -81,7 +85,9 @@ npm start
             without "-" in place of the link that is on line 16 of the RepositoryList.tsx folder in the components, and save.</sup></p>
   </div>
     
+    
   <br><br><br> 
+    
     
 <div id="about">
   <h3>About</h3>
