@@ -86,12 +86,11 @@ npm start
 <div id="about">
   <h3>About</h3>
   <hr>
-  <p>ǫᴜᴇsᴛɪᴏɴs ᴀɴᴅ sᴜɢɢᴇsᴛɪᴏɴs</p>
+  <p><sup><strong>QUESTIONS AND SUGGESTIONS</strong></sup></p>
   <p><sup><strong>ᴇᴍᴀɪʟ: marksales.dev.eng@gmail.com<br>
-    ʟɪɴᴋᴇᴅɪɴ: linkedin.com/in/markley-sales</sup></strong></p>
+    ʟɪɴᴋᴇᴅɪɴ: linkedin.com/in/markley-sales</strong></sup></p>
   <br><br><br>
   <div align="center">
     <img width="200px" src="https://user-images.githubusercontent.com/95272518/158143637-05c28666-e3ec-48fe-8643-1d4141443364.svg">
   </div>
 </div>
-
