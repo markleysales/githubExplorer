@@ -20,7 +20,7 @@
 </div>
   <div id="items-and-questions"><br>
         <h5>WHAT WAS DONE?<br><br>
-        Page with list of repositories that consume GitHuB API.<br>
+        Page with list of repositories that consume GitHub API.<br>
         Implemented with React.js and TypeScript</h5>
         <h5><a href="https://www.techtudo.com.br/listas/2020/06/o-que-e-api-e-para-que-serve-cinco-perguntas-e-respostas.ghtml">WHAT IS API??<br><br>
         The acronym API derives from the English expression Application Programming Interface which,<br> 
