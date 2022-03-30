@@ -1,8 +1,10 @@
 <!-- --README MADE BY MARKLEY SALES!-- 500px min 100px títulos e bansc bold + 3px de borda (texto) --README MADE BY MARKLEY SALES!-- -->
 <h1><img width="580px" src="https://user-images.githubusercontent.com/95272518/159211994-2679cd09-6cc4-4513-8bce-5d4be2e5d1f1.svg"></h1> 
+<sub><img align="left" height="20px" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmarkleysales%2FgithubExplorer&count_bg=%23097BBB&title_bg=%2324292F&icon=cliqz.svg&icon_color=%23E7E7E7&title=Visits&edge_flat=false">
+<img align="left" height="20px" src="https://img.shields.io/github/last-commit/markleysales/githubExplorer?color=097BBB&label=Last%20commit&logo=Git&labelColor=24292F"></sub>
 
 <div id="technologies">
-  <p align="left"><a href="https://github.com/markleysales/markbunnyOnlStore/blob/main/package.json">
+  <p align="right"><a href="https://github.com/markleysales/markbunnyOnlStore/blob/main/package.json">
     <sup><strong>Complete and responsive GitHub repository list | Version: 1.0.0</a></sup></strong></p>
   <div align="right">
     <img width="36px" src="https://user-images.githubusercontent.com/95272518/157799236-8a87a088-b828-4b23-8462-91fc5809fc5f.svg">
@@ -92,8 +94,7 @@ npm start
 <div id="about">
   <h3>About & Contact</h3>
   <hr>           
-  <sub><img align="right" height="20px" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmarkleysales%2FgithubExplorer&count_bg=%23097BBB&title_bg=%2324292F&icon=cliqz.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false">   </sub>
-  <h5>Email{ marksales.dev.eng@gmail.com }</h5>
+  <h5>Email: marksales.dev.eng@gmail.com</h5>
   <a href="https://www.linkedin.com/in/markley-sales/"><img width="34px" src="https://user-images.githubusercontent.com/95272518/160725427-5c844c00-078d-4bee-9af7-2a89d5082b1c.svg"></a>
   <a href="https://www.behance.net/markleysales"><img width="34px" src="https://user-images.githubusercontent.com/95272518/160725548-52a7fde7-0dca-4eea-a1df-a4cef6cd5629.svg"></a>
   <a href="https://www.instagram.com/mark__sales/"><img width="34px" src="https://user-images.githubusercontent.com/95272518/160725991-e77f66f8-5cda-4b4a-aaec-7f0390233324.svg"></a>
