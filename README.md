@@ -107,4 +107,4 @@ npm start
     </a>
   </div>
 </div>
-<!-- --README MADE BY MARKLEY SALES!-|-README MADE BY MARKLEY SALES!-- -->
+<!-- --README MADE BY MARKLEY SALES!--README MADE BY MARKLEY SALES!-- -->
