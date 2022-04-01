@@ -26,7 +26,7 @@
         The acronym API derives from the English expression Application Programming Interface which,<br> 
         translated into Portuguese, can be understood as an application programming interface.<br>
         In other words, API is a set of standards that enables communication between platforms<br>
-        through a series of standards and protocols.</h5>
+        through a series of standards and protocols.</a></h5>
   </div>       
     
           
