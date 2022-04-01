@@ -19,15 +19,20 @@
     <img width="49.2%" src="https://user-images.githubusercontent.com/95272518/158737116-7df26939-9a47-47d5-ae80-fc61da1f98a1.png">
 </div>
   <div id="items-and-questions"><br>
-        <h5>WHAT WAS DONE?<br><br>
-        Page with list of repositories that consume GitHub API.<br>
-        Implemented with React.js and TypeScript</h5>
-        <h5><a href="https://www.techtudo.com.br/listas/2020/06/o-que-e-api-e-para-que-serve-cinco-perguntas-e-respostas.ghtml">WHAT IS API??<br><br>
-        The acronym API derives from the English expression Application Programming Interface which,<br> 
-        translated into Portuguese, can be understood as an application programming interface.<br>
-        In other words, API is a set of standards that enables communication between platforms<br>
-        through a series of standards and protocols.</a></h5>
-  </div>       
+        
+<h5>WHAT WAS DONE?</h5>
+      
+><h5>Page with list of repositories that consume GitHub API.<br>
+>Implemented with React.js and TypeScript</h5>
+   
+<h5>WHAT IS API??</h5>
+          
+><h5><a href="https://www.techtudo.com.br/listas/2020/06/o-que-e-api-e-para-que-serve-cinco-perguntas-e-respostas.ghtml">The acronym API derives from the English expression Application Programming Interface which,<br> 
+>translated into Portuguese, can be understood as an application programming interface.<br>
+>In other words, API is a set of standards that enables communication between platforms<br>
+>through a series of standards and protocols.</a></h5>
+    
+</div>       
     
           
   <br><br><br>
