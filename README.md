@@ -4,7 +4,7 @@
 <img align="left" height="20px" src="https://img.shields.io/github/last-commit/markleysales/githubExplorer?color=DAA520&label=Last%20commit&logo=Git&labelColor=8D5FD3&logoColor=FFFFFF"></sub>
 
 <div id="technologies">
-  <p align="right"><a href="https://github.com/markleysales/markbunnyOnlStore/blob/main/package.json">
+  <p align="right"><a href="https://github.com/markleysales/githubExplorer/blob/main/package.json">
     <sup><strong>Complete and responsive GitHub repository list | Version: 1.0.0</a></sup></strong></p>
   <div align="right">
     <sup><img width="36px" src="https://user-images.githubusercontent.com/95272518/157799236-8a87a088-b828-4b23-8462-91fc5809fc5f.svg">
