@@ -88,8 +88,8 @@ npm start
 ```
 
 <h5>Open <a href="http://localhost:3000">localhost:3000</a> with your browser to see the result.</h5>
-<p><sup><strong>To put the api referring to your profile and view, just add https://api.github.com/users/-yourgithubusernamehere-/repos<br>
-            without "-" in place of the link that is on line 16 of the RepositoryList.tsx folder in the components, and save.</strong></sup></p>
+<p><sup>To put the api referring to your profile and view, just add https://api.github.com/users/-yourgithubusernamehere-/repos<br>
+            without "-" in place of the link that is on line 16 of the RepositoryList.tsx folder in the components and save.</sup></p>
   </div>
     
     
