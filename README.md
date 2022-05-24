@@ -1,4 +1,4 @@
-<!-- --README MADE BY MARKLEY SALES!-- 500px min 100px títulos e bansc bold + 3px de borda (texto) --README MADE BY MARKLEY SALES!-- -->
+<!-- README MADE BY MARKLEY SALES!-- 500px min 100px títulos e bansc bold + 3px de borda (texto) --README MADE BY MARKLEY SALES! -->
 <h1><img width="580px" src="https://user-images.githubusercontent.com/95272518/159211994-2679cd09-6cc4-4513-8bce-5d4be2e5d1f1.svg"></h1> 
 <sub><img align="left" height="20px" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmarkleysales%2FgithubExplorer&count_bg=%23DAA520&title_bg=%238D5FD3&icon=coursera.svg&icon_color=%23FFFFFF&title=Visits&edge_flat=false">
 <img align="left" height="20px" src="https://img.shields.io/github/last-commit/markleysales/githubExplorer?color=DAA520&label=Last%20commit&logo=Git&labelColor=8D5FD3&logoColor=FFFFFF"></sub>
